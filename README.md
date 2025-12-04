@@ -31,11 +31,11 @@ I’m that bridge — transforming confusion into clarity and decisions.
 ---
 
 ## 🧠 My superpowers
-- Design Thinking Mastery  
-- Elevator Pitch Talent  
-- Human–Tech Translation  
-- Solution Builder Mindset  
-- Tech Literacy (learning to code to become a better bridge)
+- **Design Thinking Mastery** → I fall in love with problems before creating solutions.  
+- **Elevator Pitch Talent** → I can explain your product in 20 seconds in a way your grandmother understands.  
+- **Human–Tech Translation** → I speak both languages: logic and emotion, engineering and narrative.  
+- **Solution Builder Mindset** → If something doesn’t exist, I build it (tools, frameworks, methods).  
+- **Tech Understanding** → Learning to develop to better navigate tech adoption from the inside.
 
 ---
 
